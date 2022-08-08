@@ -1,8 +1,8 @@
 This is the readme file for the printf () function
 
 It is a team project. The Authors are;
-C. A. Touré
-Rasheedat Olufunke Yusuf
+cuteface  udoekong
+Tevin Matema
 
 What we did in this project is;
 
